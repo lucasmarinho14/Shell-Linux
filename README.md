@@ -1,2 +1,5 @@
 # Shell-Linux
 Repositório criado para guardar meus códigos em shell
+
+## Iniciando o TesteSamba 
+    Para iniciar o teste samba utilize o comando: docker container run -it -d lucasmarinho/samba-shell:1.8 systemctl start smbd
